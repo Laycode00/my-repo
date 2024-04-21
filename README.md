@@ -1,4 +1,4 @@
-<h3 align="center">Data Scientist & Biomechanics </h3>
+<h3 align="center">Data Scientist & Biomechanist </h3>
 
 
 <p align="left"> <a href="https://twitter.com/lay" target="blank"><img src="https://img.shields.io/twitter/follow/lay?logo=twitter&style=for-the-badge" alt="lay" /></a> </p>
